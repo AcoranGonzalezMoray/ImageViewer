@@ -14,6 +14,7 @@ A partir de una ruta con varias imágenes, la aplicación muestra las imágenes 
 <li>Muestra la posición en la que te encuentras y el numero de imagenes contenidas en la ruta</li>
 <li>Arquitectura propuesta MVC</li>
 <br/>
+
 Requiere:
 ```
 Java JDK 17
