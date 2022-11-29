@@ -13,3 +13,8 @@ A partir de una ruta con varias imágenes, la aplicación muestra las imágenes 
 <li>Permite redimensionar la imagen manteniendo la escala hasta su tamaño original</li>
 <li>Muestra la posición en la que te encuentras y el numero de imagenes contenidas en la ruta</li>
 <li>Arquitectura propuesta MVC</li>
+
+Requiere:
+```
+Java JDK 17
+```
